@@ -73,7 +73,7 @@ comments: false
 
 2. K. Liu, S. Hashemkhani, J. Rubin and R. Kubendran, "Neuromorphic Networks using Nonlinear Mixed-feedback Multi-timescale Bio-mimetic Neurons," *2023 IEEE International Symposium on Circuits and Systems (ISCAS)*, Monterey, CA, USA, 2023, pp. 1-5, doi: 10.1109/ISCAS46773.2023.10182201.
 
-3. K. Liu, A. Gormaley, K. Woeppel, T. Emerick, X. T. Cui and R. Kubendran, "Programmable Pulse Generator for Pain Relief Stimulation using Bioresorbable Electrodes," *2023 IEEE Biomedical Circuits and Systems Conference (BioCAS)*, Toronto, ON, Canada, 2023, pp. 1-5, doi: 10.1109/BioCAS58349.2023.10389016.
+3. K. Liu, A. Gormaley, K. Woeppel, T. Emerick, X. T. Cui and R. Kubendran, "Programmable Pulse Generator for Pain Relief Stimulation using Bioresorbable Electrodes," *2023 IEEE Biomedical Circuits and Systems Conference (BioCAS)*, Toronto, ON, Canada, 2023, pp. 1-5, doi: 10.1109/BioCAS58349.2023.10389016. [[PDF]](/publications/Liu-etal-2023-Programmable-Pulse-Generator.pdf)
 
 4. K. Liu, G. Chen, K. Woeppel, X. T. Cui, and R. Kubendran, "Active Impedance Monitoring in Programmable Stimulator for Closed-Loop Charge Balancing," *submitted*.
 
