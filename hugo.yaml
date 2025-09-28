@@ -25,7 +25,7 @@ markup:
 menu:
   main:
     - name: Resume (PDF)
-      url: /Resume_Connie.pdf
+      url: /resume_connie.pdf
       weight: 1
     - name: Search
       weight: 2
